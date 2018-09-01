@@ -16,6 +16,7 @@
         android:text="@string/label_peso"/>
 
     <EditText
+        android:id="@+id/inputPeso"
         style="@style/input"
         android:hint="@string/hint_peso" />
 
@@ -24,15 +25,18 @@
         android:text="@string/label_altura"/>
 
     <EditText
+        android:id="@+id/inputAltura"
         style="@style/input"
         android:hint="@string/hint_altura" />
 
     <Button
-       style="@style/botao"
-        android:text="@string/botao_caucular"/>
+        android:id="@+id/buttonCalcular"
+        style="@style/botao"
+        android:text="@string/botao_caucular" />
 
     <Button
+        android:id="@+id/buttonLimpar"
         style="@style/botao"
-        android:text="@string/botao_limpar"/>
+        android:text="@string/botao_limpar" />
 
 </LinearLayout>

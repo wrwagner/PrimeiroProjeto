@@ -7,4 +7,6 @@
     <string name="botao_limpar">Clear</string>
     <string name="hint_altura">Ex: 1.7</string>
     <string name="hint_peso">Ex: 1.7</string>
+    <string name="label_titulo_resultado">Your IMC is:</string>
+    <string name="label_rodape">developed by MIM</string>
 </resources>
