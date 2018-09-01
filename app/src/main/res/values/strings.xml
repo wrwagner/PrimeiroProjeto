@@ -9,4 +9,11 @@
     <string name="hint_peso">Ex: 1.7</string>
     <string name="label_titulo_resultado">Your IMC is:</string>
     <string name="label_rodape">developed by MIM</string>
+    <string name="lbDescricao">Magreza</string>
+    <string name="lbDescricao1">Abaixo do peso</string>
+    <string name="lbDescricaoPesoIdeal">Peso Ideal</string>
+    <string name="lbDescricaoAcimaDoPeso">Levemente acima do peso</string>
+    <string name="lbDescricaoObesidade1">Gordo</string>
+    <string name="lbDescricaoObesidade2">Gordo pra caraio</string>
+    <string name="lbDescricaoObesidade3">Morre disgraca</string>
 </resources>
